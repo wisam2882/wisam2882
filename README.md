@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/wisam2882">
-    <img src="https://img.shields.io/badge/Wisam%20Khaleefa-FF0000?style=flat-square
-" alt="Wisam Khaleefa" /></a>
+    <p>Wisam Khaleefa</p>
 </p>
 
 <p align="center">
