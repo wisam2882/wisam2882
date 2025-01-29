@@ -6,7 +6,7 @@
 <p align="center">
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=F77B6C&lines=Full-Stack+Web+Developer;Always+learning!" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B6C&width=435&lines=Full-Stack+Web+Developer;Always+learning!" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
