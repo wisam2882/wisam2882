@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wisam2882">
-    <p>Wisam Khaleefa</p>
+# Wisam Khaleefa
 </p>
 
 <p align="center">
