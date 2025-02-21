@@ -17,8 +17,8 @@
   <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> 
 </p>
 <br/>
 
